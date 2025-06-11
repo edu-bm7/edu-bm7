@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Some tecnologies that I've worked with:</p>
+<p align="left">Some technologies that I've worked with:</p>
 
 ###
 
